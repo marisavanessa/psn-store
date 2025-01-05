@@ -1,6 +1,7 @@
 .menubar__item {
   display: flex;
-  margin: auto;
+  justify-content: center;
+  margin: center;
   align-items: center;
 }
 
